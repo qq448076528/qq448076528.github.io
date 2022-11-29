@@ -43,11 +43,11 @@
     
     
     <entry>
-      <title>网络层</title>
-      <link href="/posts/64073.html"/>
-      <url>/posts/64073.html</url>
+      <title>传输层</title>
+      <link href="/posts/64074.html"/>
+      <url>/posts/64074.html</url>
       
-        <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IP报文</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
       
       
       
@@ -56,11 +56,11 @@
     
     
     <entry>
-      <title>传输层</title>
-      <link href="/posts/64074.html"/>
-      <url>/posts/64074.html</url>
+      <title>网络层</title>
+      <link href="/posts/64073.html"/>
+      <url>/posts/64073.html</url>
       
-        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IP报文</p>]]></content>
       
       
       
