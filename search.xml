@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/posts/58489.html"/>
-      <url>/posts/58489.html</url>
+      <title>物理层</title>
+      <link href="/posts/64071.html"/>
+      <url>/posts/64071.html</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="传输介质"><a href="#传输介质" class="headerlink" title="传输介质"></a>传输介质</h2><p>双绞线：方便，五类、超五类、六类、七类、八类。传输距离最大100米，传输速度100M<del>10000M<br>光纤：速度快，多模光纤和单模光纤。工作波长在0.8um</del>1.8um,红外光&gt;0.78um,紫外光&lt;0.39um,对应频率为167<del>375THz,传输距离275M</del>390KM，传输速度1G<del>40G<br>同轴电缆：容量大，基带同轴电缆和宽带同轴电缆，阻抗分别为50欧和75欧，最大传输距离分别为185M和500M，传输速率10M</del>1000M<br>堆叠线、串口线等</p><h2 id="传输设备"><a href="#传输设备" class="headerlink" title="传输设备"></a>传输设备</h2><p>路由器、交换机、光猫、光电转换器、光模块、堆叠卡、主控板、业务板</p>]]></content>
       
       
       
