@@ -6,7 +6,7 @@
   <link href="https://www.anothai.top/atom.xml" rel="self"/>
   
   <link href="https://www.anothai.top/"/>
-  <updated>2022-11-23T05:04:06.150Z</updated>
+  <updated>2022-11-29T14:35:55.224Z</updated>
   <id>https://www.anothai.top/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>第一篇文章</title>
-    <link href="https://www.anothai.top/posts/58489.html"/>
-    <id>https://www.anothai.top/posts/58489.html</id>
-    <published>2022-11-21T18:39:00.000Z</published>
-    <updated>2022-11-23T05:04:06.150Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一篇文章&quot;&gt;&lt;/a&gt;这是我的第一篇文章&lt;/h2&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>物理层</title>
@@ -57,38 +37,19 @@
   </entry>
   
   <entry>
-    <title>第一篇文章</title>
-    <link href="https://www.anothai.top/posts/58489.html"/>
-    <id>https://www.anothai.top/posts/58489.html</id>
+    <title>数据链路层</title>
+    <link href="https://www.anothai.top/posts/64072.html"/>
+    <id>https://www.anothai.top/posts/64072.html</id>
     <published>2022-11-21T18:39:00.000Z</published>
-    <updated>2022-11-23T05:04:06.150Z</updated>
+    <updated>2022-11-29T14:53:42.640Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一篇文章&quot;&gt;&lt;/a&gt;这是我的第一篇文章&lt;/h2&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>第一篇文章</title>
-    <link href="https://www.anothai.top/posts/58489.html"/>
-    <id>https://www.anothai.top/posts/58489.html</id>
-    <published>2022-11-21T18:39:00.000Z</published>
-    <updated>2022-11-23T05:04:06.150Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一篇文章&quot;&gt;&lt;/a&gt;这是我的第一篇文章&lt;/h2&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;EthnetII&quot;&gt;&lt;a href=&quot;#EthnetII&quot; class=&quot;headerlink&quot; title=&quot;EthnetII&quot;&gt;&lt;/a&gt;EthnetII&lt;/h2&gt;&lt;p&gt;EthnetII报文：&lt;/p&gt;
+</summary>
       
     
     
@@ -109,6 +70,49 @@
       
       
     <summary type="html">&lt;h2 id=&quot;IP地址&quot;&gt;&lt;a href=&quot;#IP地址&quot; class=&quot;headerlink&quot; title=&quot;IP地址&quot;&gt;&lt;/a&gt;IP地址&lt;/h2&gt;&lt;p&gt;ARP：address resolve protocol地址解析协议，它将设备的&lt;br&gt;免费ARP：当设备获取到IP地址后，</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络层</title>
+    <link href="https://www.anothai.top/posts/64073.html"/>
+    <id>https://www.anothai.top/posts/64073.html</id>
+    <published>2022-11-21T18:39:00.000Z</published>
+    <updated>2022-11-29T14:41:55.337Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IP报文</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;ARP&quot;&gt;&lt;a href=&quot;#ARP&quot; class=&quot;headerlink&quot; title=&quot;ARP&quot;&gt;&lt;/a&gt;ARP&lt;/h2&gt;&lt;p&gt;ARP：address resolve protocol地址解析协议，它将设备的&lt;br&gt;免费ARP：当设备获取到IP地址后，将自己的</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>传输层</title>
+    <link href="https://www.anothai.top/posts/64074.html"/>
+    <id>https://www.anothai.top/posts/64074.html</id>
+    <published>2022-11-21T18:39:00.000Z</published>
+    <updated>2022-11-29T14:42:51.518Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;TCP&quot;&gt;&lt;a href=&quot;#TCP&quot; class=&quot;headerlink&quot; title=&quot;TCP&quot;&gt;&lt;/a&gt;TCP&lt;/h2&gt;&lt;p&gt;TCP报文：&lt;/p&gt;
+&lt;p&gt;TCP的三次握手：&lt;/p&gt;
+&lt;p&gt;TCP的四次分手：&lt;/p&gt;
+</summary>
       
     
     
