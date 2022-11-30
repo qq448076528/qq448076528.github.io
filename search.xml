@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>物理层</title>
-      <link href="/posts/64071.html"/>
-      <url>/posts/64071.html</url>
+      <title>数据链路层</title>
+      <link href="/posts/64072.html"/>
+      <url>/posts/64072.html</url>
       
-        <content type="html"><![CDATA[<h2 id="传输介质"><a href="#传输介质" class="headerlink" title="传输介质"></a>传输介质</h2><p>双绞线：方便，五类、超五类、六类、七类、八类。传输距离最大100米，传输速度100M<del>10000M<br>光纤：速度快，多模光纤和单模光纤。工作波长在0.8um</del>1.8um,红外光&gt;0.78um,紫外光&lt;0.39um,对应频率为167<del>375THz,传输距离275M</del>390KM，传输速度1G<del>40G<br>同轴电缆：容量大，基带同轴电缆和宽带同轴电缆，阻抗分别为50欧和75欧，最大传输距离分别为185M和500M，传输速率10M</del>1000M<br>堆叠线、串口线等</p><h2 id="传输设备"><a href="#传输设备" class="headerlink" title="传输设备"></a>传输设备</h2><p>路由器、交换机、光猫、光电转换器、光模块、堆叠卡、主控板、业务板</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p>]]></content>
       
       
       
@@ -17,11 +17,24 @@
     
     
     <entry>
-      <title>数据链路层</title>
-      <link href="/posts/64072.html"/>
-      <url>/posts/64072.html</url>
+      <title>应用层</title>
+      <link href="/posts/64075.html"/>
+      <url>/posts/64075.html</url>
       
-        <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="IP地址"><a href="#IP地址" class="headerlink" title="IP地址"></a>IP地址</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>物理层</title>
+      <link href="/posts/64071.html"/>
+      <url>/posts/64071.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="传输介质"><a href="#传输介质" class="headerlink" title="传输介质"></a>传输介质</h2><p>双绞线：方便，五类、超五类、六类、七类、八类。传输距离最大100米，传输速度100M<del>10000M<br>光纤：速度快，多模光纤和单模光纤。工作波长在0.8um</del>1.8um,红外光&gt;0.78um,紫外光&lt;0.39um,对应频率为167<del>375THz,传输距离275M</del>390KM，传输速度1G<del>40G<br>同轴电缆：容量大，基带同轴电缆和宽带同轴电缆，阻抗分别为50欧和75欧，最大传输距离分别为185M和500M，传输速率10M</del>1000M<br>堆叠线、串口线等</p><h2 id="传输设备"><a href="#传输设备" class="headerlink" title="传输设备"></a>传输设备</h2><p>路由器、交换机、光猫、光电转换器、光模块、堆叠卡、主控板、业务板</p>]]></content>
       
       
       
@@ -48,19 +61,6 @@
       <url>/posts/64074.html</url>
       
         <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>应用层</title>
-      <link href="/posts/64075.html"/>
-      <url>/posts/64075.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="IP地址"><a href="#IP地址" class="headerlink" title="IP地址"></a>IP地址</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p>]]></content>
       
       
       
