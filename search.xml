@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Shell</title>
+      <link href="/posts/24229.html"/>
+      <url>/posts/24229.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Shell"><a href="#Shell" class="headerlink" title="Shell"></a>Shell</h2><p>cp、ip-add</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux快捷命令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>接入安全</title>
       <link href="/posts/28518.html"/>
       <url>/posts/28518.html</url>
@@ -36,31 +61,6 @@
           
       </categories>
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Shell</title>
-      <link href="/posts/24229.html"/>
-      <url>/posts/24229.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="Shell"><a href="#Shell" class="headerlink" title="Shell"></a>Shell</h2><p>cp、ip-add</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Linux </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> linux快捷命令 </tag>
-            
-        </tags>
       
     </entry>
     
@@ -111,11 +111,11 @@
     
     
     <entry>
-      <title>传输层</title>
-      <link href="/posts/64074.html"/>
-      <url>/posts/64074.html</url>
+      <title>网络层</title>
+      <link href="/posts/64073.html"/>
+      <url>/posts/64073.html</url>
       
-        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IPv4地址类：<br>A类：0.0.0.0-127.255.255.255，私有在址10.0.0.0-10.255.255.255，本地测试地址127.0.0.0-127.0.0.255，0.0.0.0泛指所有IP<br>B类：128.0.0.0-191.255.255.255，私有地址172.16.0.0-172.31.255.255<br>C类: 192.0.0.0-223.255.255.255, 私有地址192.168.0.0-192.168.255.255<br>D类：224.0.0.0-239.255.255.255，组播地址<br>E类：240.0.0.0-255.255.255.255，教育、科研地址，255.255.255.255广播地址</p>]]></content>
       
       
       <categories>
@@ -130,11 +130,11 @@
     
     
     <entry>
-      <title>网络层</title>
-      <link href="/posts/64073.html"/>
-      <url>/posts/64073.html</url>
+      <title>传输层</title>
+      <link href="/posts/64074.html"/>
+      <url>/posts/64074.html</url>
       
-        <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IPv4地址类：<br>A类：0.0.0.0-127.255.255.255，私有在址10.0.0.0-10.255.255.255，本地测试地址127.0.0.0-127.0.0.255，0.0.0.0泛指所有IP<br>B类：128.0.0.0-191.255.255.255，私有地址172.16.0.0-172.31.255.255<br>C类: 192.0.0.0-223.255.255.255, 私有地址192.168.0.0-192.168.255.255<br>D类：224.0.0.0-239.255.255.255，组播地址<br>E类：240.0.0.0-255.255.255.255，教育、科研地址，255.255.255.255广播地址</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
       
       
       <categories>

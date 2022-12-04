@@ -6,7 +6,7 @@
   <link href="https://www.anothai.top/atom.xml" rel="self"/>
   
   <link href="https://www.anothai.top/"/>
-  <updated>2022-12-02T22:00:51.512Z</updated>
+  <updated>2022-12-02T22:12:46.160Z</updated>
   <id>https://www.anothai.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Shell</title>
+    <link href="https://www.anothai.top/posts/24229.html"/>
+    <id>https://www.anothai.top/posts/24229.html</id>
+    <published>2022-11-30T18:39:00.000Z</published>
+    <updated>2022-12-02T22:12:46.160Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Shell"><a href="#Shell" class="headerlink" title="Shell"></a>Shell</h2><p>cp、ip-add</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Shell&quot;&gt;&lt;a href=&quot;#Shell&quot; class=&quot;headerlink&quot; title=&quot;Shell&quot;&gt;&lt;/a&gt;Shell&lt;/h2&gt;&lt;p&gt;cp、ip-add&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Linux" scheme="https://www.anothai.top/categories/Linux/"/>
+    
+    
+    <category term="linux快捷命令" scheme="https://www.anothai.top/tags/linux%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
   
   <entry>
     <title>接入安全</title>
@@ -58,31 +83,6 @@
     
     <category term="案例" scheme="https://www.anothai.top/categories/%E6%A1%88%E4%BE%8B/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Shell</title>
-    <link href="https://www.anothai.top/posts/24229.html"/>
-    <id>https://www.anothai.top/posts/24229.html</id>
-    <published>2022-11-30T18:39:00.000Z</published>
-    <updated>2022-12-02T22:12:46.160Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Shell"><a href="#Shell" class="headerlink" title="Shell"></a>Shell</h2><p>cp、ip-add</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;Shell&quot;&gt;&lt;a href=&quot;#Shell&quot; class=&quot;headerlink&quot; title=&quot;Shell&quot;&gt;&lt;/a&gt;Shell&lt;/h2&gt;&lt;p&gt;cp、ip-add&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Linux" scheme="https://www.anothai.top/categories/Linux/"/>
-    
-    
-    <category term="linux快捷命令" scheme="https://www.anothai.top/tags/linux%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
@@ -134,6 +134,28 @@
   </entry>
   
   <entry>
+    <title>网络层</title>
+    <link href="https://www.anothai.top/posts/64073.html"/>
+    <id>https://www.anothai.top/posts/64073.html</id>
+    <published>2022-11-21T18:39:00.000Z</published>
+    <updated>2022-12-04T14:50:34.688Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IPv4地址类：<br>A类：0.0.0.0-127.255.255.255，私有在址10.0.0.0-10.255.255.255，本地测试地址127.0.0.0-127.0.0.255，0.0.0.0泛指所有IP<br>B类：128.0.0.0-191.255.255.255，私有地址172.16.0.0-172.31.255.255<br>C类: 192.0.0.0-223.255.255.255, 私有地址192.168.0.0-192.168.255.255<br>D类：224.0.0.0-239.255.255.255，组播地址<br>E类：240.0.0.0-255.255.255.255，教育、科研地址，255.255.255.255广播地址</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;ARP&quot;&gt;&lt;a href=&quot;#ARP&quot; class=&quot;headerlink&quot; title=&quot;ARP&quot;&gt;&lt;/a&gt;ARP&lt;/h2&gt;&lt;p&gt;ARP：address resolve protocol地址解析协议，它将设备的&lt;br&gt;免费ARP：当设备获取到IP地址后，将自己的</summary>
+      
+    
+    
+    
+    <category term="网络" scheme="https://www.anothai.top/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>传输层</title>
     <link href="https://www.anothai.top/posts/64074.html"/>
     <id>https://www.anothai.top/posts/64074.html</id>
@@ -149,28 +171,6 @@
 &lt;p&gt;TCP的三次握手：&lt;/p&gt;
 &lt;p&gt;TCP的四次分手：&lt;/p&gt;
 </summary>
-      
-    
-    
-    
-    <category term="网络" scheme="https://www.anothai.top/categories/%E7%BD%91%E7%BB%9C/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>网络层</title>
-    <link href="https://www.anothai.top/posts/64073.html"/>
-    <id>https://www.anothai.top/posts/64073.html</id>
-    <published>2022-11-21T18:39:00.000Z</published>
-    <updated>2022-12-04T14:50:34.688Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IPv4地址类：<br>A类：0.0.0.0-127.255.255.255，私有在址10.0.0.0-10.255.255.255，本地测试地址127.0.0.0-127.0.0.255，0.0.0.0泛指所有IP<br>B类：128.0.0.0-191.255.255.255，私有地址172.16.0.0-172.31.255.255<br>C类: 192.0.0.0-223.255.255.255, 私有地址192.168.0.0-192.168.255.255<br>D类：224.0.0.0-239.255.255.255，组播地址<br>E类：240.0.0.0-255.255.255.255，教育、科研地址，255.255.255.255广播地址</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;ARP&quot;&gt;&lt;a href=&quot;#ARP&quot; class=&quot;headerlink&quot; title=&quot;ARP&quot;&gt;&lt;/a&gt;ARP&lt;/h2&gt;&lt;p&gt;ARP：address resolve protocol地址解析协议，它将设备的&lt;br&gt;免费ARP：当设备获取到IP地址后，将自己的</summary>
       
     
     

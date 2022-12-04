@@ -226,7 +226,24 @@ div#archive {
   color: #ffffff;
 }
 
-@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
+@import "//at.alicdn.com/t/c/font_3808175_tqelik9easl.css";
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 3em;
+  /* 可以定义图标大小 */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  }
+
+  svg.icon{
+    width: 2em;
+    height: 2em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+  }
 
 /* 鼠标样式 */
 #cursor {
