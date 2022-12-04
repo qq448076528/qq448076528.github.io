@@ -67,6 +67,25 @@
     
     
     <entry>
+      <title>网络层</title>
+      <link href="/posts/64073.html"/>
+      <url>/posts/64073.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IPv4地址类：<br>A类：0.0.0.0-127.255.255.255，私有在址10.0.0.0-10.255.255.255，本地测试地址127.0.0.0-127.0.0.255，0.0.0.0泛指所有IP<br>B类：128.0.0.0-191.255.255.255，私有地址172.16.0.0-172.31.255.255<br>C类: 192.0.0.0-223.255.255.255, 私有地址192.168.0.0-192.168.255.255<br>D类：224.0.0.0-239.255.255.255，组播地址<br>E类：240.0.0.0-255.255.255.255，教育、科研地址，255.255.255.255广播地址</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>物理层</title>
       <link href="/posts/64071.html"/>
       <url>/posts/64071.html</url>
@@ -92,25 +111,6 @@
     
     
     <entry>
-      <title>数据链路层</title>
-      <link href="/posts/64072.html"/>
-      <url>/posts/64072.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p><h2 id="MAC地址"><a href="#MAC地址" class="headerlink" title="MAC地址"></a>MAC地址</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网络 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>传输层</title>
       <link href="/posts/64074.html"/>
       <url>/posts/64074.html</url>
@@ -130,11 +130,11 @@
     
     
     <entry>
-      <title>网络层</title>
-      <link href="/posts/64073.html"/>
-      <url>/posts/64073.html</url>
+      <title>应用层</title>
+      <link href="/posts/64075.html"/>
+      <url>/posts/64075.html</url>
       
-        <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IPv4地址类：<br>A类：0.0.0.0-127.255.255.255，私有在址10.0.0.0-10.255.255.255，本地测试地址127.0.0.0-127.0.0.255，0.0.0.0泛指所有IP<br>B类：128.0.0.0-191.255.255.255，私有地址172.16.0.0-172.31.255.255<br>C类: 192.0.0.0-223.255.255.255, 私有地址192.168.0.0-192.168.255.255<br>D类：224.0.0.0-239.255.255.255，组播地址<br>E类：240.0.0.0-255.255.255.255，教育、科研地址，255.255.255.255广播地址</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="IP地址"><a href="#IP地址" class="headerlink" title="IP地址"></a>IP地址</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p>]]></content>
       
       
       <categories>
@@ -149,11 +149,11 @@
     
     
     <entry>
-      <title>应用层</title>
-      <link href="/posts/64075.html"/>
-      <url>/posts/64075.html</url>
+      <title>数据链路层</title>
+      <link href="/posts/64072.html"/>
+      <url>/posts/64072.html</url>
       
-        <content type="html"><![CDATA[<h2 id="IP地址"><a href="#IP地址" class="headerlink" title="IP地址"></a>IP地址</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p><h2 id="MAC地址"><a href="#MAC地址" class="headerlink" title="MAC地址"></a>MAC地址</h2>]]></content>
       
       
       <categories>
