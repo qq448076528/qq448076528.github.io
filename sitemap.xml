@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.anothai.top/posts/24229.html</loc>
-    
-    <lastmod>2022-12-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anothai.top/posts/24229.html</loc>
-    
-    <lastmod>2022-12-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anothai.top/posts/64071.html</loc>
+    
+    <lastmod>2022-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anothai.top/posts/24229.html</loc>
+    
+    <lastmod>2022-12-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anothai.top/posts/24229.html</loc>
     
     <lastmod>2022-12-02</lastmod>
     
@@ -130,7 +130,7 @@
 
   <url>
     <loc>https://www.anothai.top/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,14 +138,14 @@
   
   <url>
     <loc>https://www.anothai.top/tags/%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.anothai.top/tags/linux%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -154,28 +154,28 @@
   
   <url>
     <loc>https://www.anothai.top/categories/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.anothai.top/categories/Linux/</loc>
-    <lastmod>2022-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anothai.top/categories/%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.anothai.top/categories/%E6%A1%88%E4%BE%8B/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anothai.top/categories/%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2022-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
