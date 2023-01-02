@@ -68,6 +68,12 @@
       </categories>
       
       
+        <tags>
+            
+            <tag> 案例 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -86,6 +92,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 安全 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -117,11 +129,11 @@
     
     
     <entry>
-      <title>《TCP-IP模型》数据链路层</title>
-      <link href="/posts/64072.html"/>
-      <url>/posts/64072.html</url>
+      <title>《TCP-IP模型》传输层</title>
+      <link href="/posts/64074.html"/>
+      <url>/posts/64074.html</url>
       
-        <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p><h2 id="MAC地址"><a href="#MAC地址" class="headerlink" title="MAC地址"></a>MAC地址</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
       
       
       <categories>
@@ -192,11 +204,11 @@
     
     
     <entry>
-      <title>《TCP-IP模型》传输层</title>
-      <link href="/posts/64074.html"/>
-      <url>/posts/64074.html</url>
+      <title>《TCP-IP模型》数据链路层</title>
+      <link href="/posts/64072.html"/>
+      <url>/posts/64072.html</url>
       
-        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p><h2 id="MAC地址"><a href="#MAC地址" class="headerlink" title="MAC地址"></a>MAC地址</h2>]]></content>
       
       
       <categories>
