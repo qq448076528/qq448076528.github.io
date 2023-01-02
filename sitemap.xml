@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.anothai.top/posts/17683.html</loc>
-    
-    <lastmod>2023-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anothai.top/posts/24229.html</loc>
+    <loc>https://www.anothai.top/posts/59245.html</loc>
     
     <lastmod>2023-01-02</lastmod>
     
@@ -29,7 +20,16 @@
   </url>
   
   <url>
-    <loc>https://www.anothai.top/posts/59245.html</loc>
+    <loc>https://www.anothai.top/posts/24229.html</loc>
+    
+    <lastmod>2023-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anothai.top/posts/17683.html</loc>
     
     <lastmod>2023-01-02</lastmod>
     
@@ -153,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://www.anothai.top/tags/%E5%AE%89%E5%85%A8/</loc>
+    <loc>https://www.anothai.top/tags/%E6%A1%88%E4%BE%8B/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -174,7 +174,7 @@
   </url>
   
   <url>
-    <loc>https://www.anothai.top/tags/%E6%A1%88%E4%BE%8B/</loc>
+    <loc>https://www.anothai.top/tags/%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -190,7 +190,7 @@
   </url>
   
   <url>
-    <loc>https://www.anothai.top/categories/%E5%AE%89%E5%85%A8/</loc>
+    <loc>https://www.anothai.top/categories/%E6%A1%88%E4%BE%8B/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -211,7 +211,7 @@
   </url>
   
   <url>
-    <loc>https://www.anothai.top/categories/%E6%A1%88%E4%BE%8B/</loc>
+    <loc>https://www.anothai.top/categories/%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
