@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.anothai.top/posts/64071.html</loc>
+    
+    <lastmod>2023-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.anothai.top/posts/64072.html</loc>
     
     <lastmod>2023-01-02</lastmod>
@@ -137,6 +146,13 @@
 
   
   <url>
+    <loc>https://www.anothai.top/tags/%E3%80%8ATCP-IP%E6%A8%A1%E5%9E%8B%E3%80%8B/</loc>
+    <lastmod>2023-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.anothai.top/tags/linux%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -167,14 +183,14 @@
   </url>
   
   <url>
-    <loc>https://www.anothai.top/categories/%E5%AE%89%E5%85%A8/</loc>
+    <loc>https://www.anothai.top/categories/%E6%A1%88%E4%BE%8B/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.anothai.top/categories/%E6%A1%88%E4%BE%8B/</loc>
+    <loc>https://www.anothai.top/categories/%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
