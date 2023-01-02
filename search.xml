@@ -29,31 +29,6 @@
     
     
     <entry>
-      <title>Shell</title>
-      <link href="/posts/24229.html"/>
-      <url>/posts/24229.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="Shell"><a href="#Shell" class="headerlink" title="Shell"></a>Shell</h2><p>cp、ip-add</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Linux </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> linux快捷命令 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>案例</title>
       <link href="/posts/36849.html"/>
       <url>/posts/36849.html</url>
@@ -71,6 +46,31 @@
         <tags>
             
             <tag> 案例 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Shell</title>
+      <link href="/posts/24229.html"/>
+      <url>/posts/24229.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Shell"><a href="#Shell" class="headerlink" title="Shell"></a>Shell</h2><p>cp、ip-add</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux快捷命令 </tag>
             
         </tags>
       
@@ -154,11 +154,11 @@
     
     
     <entry>
-      <title>《TCP-IP模型》应用层</title>
-      <link href="/posts/64075.html"/>
-      <url>/posts/64075.html</url>
+      <title>《TCP-IP模型》传输层</title>
+      <link href="/posts/64074.html"/>
+      <url>/posts/64074.html</url>
       
-        <content type="html"><![CDATA[<h2 id="IP地址"><a href="#IP地址" class="headerlink" title="IP地址"></a>IP地址</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
       
       
       <categories>
@@ -204,11 +204,11 @@
     
     
     <entry>
-      <title>《TCP-IP模型》传输层</title>
-      <link href="/posts/64074.html"/>
-      <url>/posts/64074.html</url>
+      <title>《TCP-IP模型》应用层</title>
+      <link href="/posts/64075.html"/>
+      <url>/posts/64075.html</url>
       
-        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="IP地址"><a href="#IP地址" class="headerlink" title="IP地址"></a>IP地址</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p>]]></content>
       
       
       <categories>
