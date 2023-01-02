@@ -92,25 +92,6 @@
     
     
     <entry>
-      <title>《TCP-IP模型》数据链路层</title>
-      <link href="/posts/64072.html"/>
-      <url>/posts/64072.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p><h2 id="MAC地址"><a href="#MAC地址" class="headerlink" title="MAC地址"></a>MAC地址</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网络 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>《TCP-IP模型》网络层</title>
       <link href="/posts/64073.html"/>
       <url>/posts/64073.html</url>
@@ -130,11 +111,11 @@
     
     
     <entry>
-      <title>《TCP-IP模型》传输层</title>
-      <link href="/posts/64074.html"/>
-      <url>/posts/64074.html</url>
+      <title>《TCP-IP模型》数据链路层</title>
+      <link href="/posts/64072.html"/>
+      <url>/posts/64072.html</url>
       
-        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="EthnetII"><a href="#EthnetII" class="headerlink" title="EthnetII"></a>EthnetII</h2><p>EthnetII报文：</p><h2 id="MAC地址"><a href="#MAC地址" class="headerlink" title="MAC地址"></a>MAC地址</h2>]]></content>
       
       
       <categories>
@@ -154,6 +135,25 @@
       <url>/posts/64075.html</url>
       
         <content type="html"><![CDATA[<h2 id="IP地址"><a href="#IP地址" class="headerlink" title="IP地址"></a>IP地址</h2><p>ARP：address resolve protocol地址解析协议，它将设备的<br>免费ARP：当设备获取到IP地址后，将自己的IP地址作为目地地址发送到局域网中<br>代理ARP：<br>RARP：</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《TCP-IP模型》传输层</title>
+      <link href="/posts/64074.html"/>
+      <url>/posts/64074.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
       
       
       <categories>
