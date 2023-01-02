@@ -54,25 +54,6 @@
     
     
     <entry>
-      <title>案例</title>
-      <link href="/posts/24229.html"/>
-      <url>/posts/24229.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="家庭网络"><a href="#家庭网络" class="headerlink" title="家庭网络"></a>家庭网络</h2><h2 id="分公司网络"><a href="#分公司网络" class="headerlink" title="分公司网络"></a>分公司网络</h2><h2 id="公司总部网络"><a href="#公司总部网络" class="headerlink" title="公司总部网络"></a>公司总部网络</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 案例 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>接入安全</title>
       <link href="/posts/28518.html"/>
       <url>/posts/28518.html</url>
@@ -83,6 +64,25 @@
       <categories>
           
           <category> 安全 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>案例</title>
+      <link href="/posts/24229.html"/>
+      <url>/posts/24229.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="家庭网络"><a href="#家庭网络" class="headerlink" title="家庭网络"></a>家庭网络</h2><h2 id="分公司网络"><a href="#分公司网络" class="headerlink" title="分公司网络"></a>分公司网络</h2><h2 id="公司总部网络"><a href="#公司总部网络" class="headerlink" title="公司总部网络"></a>公司总部网络</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 案例 </category>
           
       </categories>
       
@@ -111,11 +111,11 @@
     
     
     <entry>
-      <title>《TCP-IP模型》传输层</title>
-      <link href="/posts/64074.html"/>
-      <url>/posts/64074.html</url>
+      <title>《TCP-IP模型》网络层</title>
+      <link href="/posts/64073.html"/>
+      <url>/posts/64073.html</url>
       
-        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议<br>代理ARP：<br>反代RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IPv4地址类：<br>A类：0.0.0.0-127.255.255.255，私有在址10.0.0.0-10.255.255.255，本地测试地址127.0.0.0-127.0.0.255，0.0.0.0泛指所有IP<br>B类：128.0.0.0-191.255.255.255，私有地址172.16.0.0-172.31.255.255<br>C类: 192.0.0.0-223.255.255.255, 私有地址192.168.0.0-192.168.255.255<br>D类：224.0.0.0-239.255.255.255，组播地址<br>E类：240.0.0.0-255.255.255.255，教育、科研地址，255.255.255.255广播地址</p><h2 id="路由协议"><a href="#路由协议" class="headerlink" title="路由协议"></a>路由协议</h2><p>直连路由、静态路由、RIP、OSPF、ISIS、BGP</p>]]></content>
       
       
       <categories>
@@ -130,11 +130,11 @@
     
     
     <entry>
-      <title>《TCP-IP模型》网络层</title>
-      <link href="/posts/64073.html"/>
-      <url>/posts/64073.html</url>
+      <title>《TCP-IP模型》传输层</title>
+      <link href="/posts/64074.html"/>
+      <url>/posts/64074.html</url>
       
-        <content type="html"><![CDATA[<h2 id="ARP"><a href="#ARP" class="headerlink" title="ARP"></a>ARP</h2><p>ARP：address resolve protocol地址解析协议<br>代理ARP：<br>反代RARP：</p><h2 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h2><p>IPv4地址类：<br>A类：0.0.0.0-127.255.255.255，私有在址10.0.0.0-10.255.255.255，本地测试地址127.0.0.0-127.0.0.255，0.0.0.0泛指所有IP<br>B类：128.0.0.0-191.255.255.255，私有地址172.16.0.0-172.31.255.255<br>C类: 192.0.0.0-223.255.255.255, 私有地址192.168.0.0-192.168.255.255<br>D类：224.0.0.0-239.255.255.255，组播地址<br>E类：240.0.0.0-255.255.255.255，教育、科研地址，255.255.255.255广播地址</p><h2 id="路由协议"><a href="#路由协议" class="headerlink" title="路由协议"></a>路由协议</h2><p>直连路由、静态路由、RIP、OSPF、ISIS、BGP</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
       
       
       <categories>
