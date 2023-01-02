@@ -54,25 +54,6 @@
     
     
     <entry>
-      <title>案例</title>
-      <link href="/posts/24229.html"/>
-      <url>/posts/24229.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="家庭网络"><a href="#家庭网络" class="headerlink" title="家庭网络"></a>家庭网络</h2><h2 id="分公司网络"><a href="#分公司网络" class="headerlink" title="分公司网络"></a>分公司网络</h2><h2 id="公司总部网络"><a href="#公司总部网络" class="headerlink" title="公司总部网络"></a>公司总部网络</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 案例 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>接入安全</title>
       <link href="/posts/28518.html"/>
       <url>/posts/28518.html</url>
@@ -92,7 +73,26 @@
     
     
     <entry>
-      <title>数据链路层</title>
+      <title>案例</title>
+      <link href="/posts/24229.html"/>
+      <url>/posts/24229.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="家庭网络"><a href="#家庭网络" class="headerlink" title="家庭网络"></a>家庭网络</h2><h2 id="分公司网络"><a href="#分公司网络" class="headerlink" title="分公司网络"></a>分公司网络</h2><h2 id="公司总部网络"><a href="#公司总部网络" class="headerlink" title="公司总部网络"></a>公司总部网络</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 案例 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《TCP-IP模型》数据链路层</title>
       <link href="/posts/64072.html"/>
       <url>/posts/64072.html</url>
       
@@ -111,51 +111,7 @@
     
     
     <entry>
-      <title>传输层</title>
-      <link href="/posts/64074.html"/>
-      <url>/posts/64074.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网络 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>物理层</title>
-      <link href="/posts/64071.html"/>
-      <url>/posts/64071.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="传输介质"><a href="#传输介质" class="headerlink" title="传输介质"></a>传输介质</h2><p>双绞线：方便，五类、超五类、六类、超六类、七类、八类。传输距离最大100米，传输速度100M-40000M</p><div class="table-container"><table><thead><tr><th>类型</th><th>五类</th><th>超五类</th><th>六类</th><th>超六类</th><th>七类</th><th>八类</th></tr></thead><tbody><tr><td>标识</td><td>CATE 5</td><td>CATE 5E</td><td>CATE 6</td><td>CATE 6A</td><td>CATE 7</td><td>CATE 8</td></tr><tr><td>最大传输速率</td><td>100Mbps/200Mbps</td><td>1Gbps-10Gbps</td><td>55米10Gbps</td><td>10Gbps</td><td>10Gbps</td><td>30米40Gbps</td></tr><tr><td>最大频率</td><td>100MHz</td><td>125MHz</td><td>250MHz</td><td>500MHz</td><td>600MHz</td><td>2000MHz</td></tr><tr><td>规格</td><td>27AWG</td><td>25AWG</td><td>24AWG</td><td>23AWG</td><td>23AWG</td><td>22AWG</td></tr><tr><td>直径</td><td>0.36mm</td><td>0.45mm</td><td>0.51mm</td><td>0.57mm</td><td>0.57mm</td><td>0.64mm</td></tr><tr><td>屏蔽</td><td>否</td><td>支持</td><td>支持</td><td>支持</td><td>双屏蔽</td><td>双屏蔽</td></tr><tr><td>应用场景</td><td>家用</td><td>家用/工程</td><td>家用/工程</td><td>工程</td><td>服务器</td><td>服务器</td></tr></tbody></table></div><p>百兆网线：1(tx+)、2(tx-)、3(rx+)、4(空)、5(空)、6(rx-)、7(空)、8(空)<br>千兆网线：1(tx+)、2(tx-)、3(tx+)、4(rx+)、5(rx-)、6(tx-)、7(rx+)、8(rx-)<br>POE网线独立供电：1(tx+)、2(tx-)、3(rx+)、4(+)、5(+)、6(rx-)、7(-)、8(-)<br>POE网线共享供电：1(-)、2(-)、3(+)、4(rx+)、5(rx-)、6(+)、7(rx+)、8(rx-)或1(+)、2(+)、3(-)、4(rx+)、5(rx-)、6(-)、7(rx+)、8(rx-)<br>网线的种类：无氧铜、纯铜、铜包铝、铝包铁<br>网线线规</p><div class="table-container"><table><thead><tr><th>22AWG</th><th>23AWG</th><th>24AWG</th><th>25AWG</th><th>26AWG</th><th>27AWG</th><th>28AWG</th><th>32AWG</th></tr></thead><tbody><tr><td>0.64mm</td><td>0.57mm</td><td>0.51mm</td><td>0.45mm</td><td>0.4mm</td><td>0.36mm</td><td>0.32mm</td><td>0.20mm</td></tr></tbody></table></div><p>无氧铜：寿命10年，高速稳定传输100米<br>纯铜：杂质较多，寿命10年<br>铜包铝：寿命5年,不用作预埋线<br>铝包铁：寿命2年，传输距离50米</p><hr><p>光纤：速度快，多模光纤和单模光纤，多模光纤工作波长为850nm,单模光纤的工作波长为1310nm或1550nm，这三个值为光纤的低损耗窗口。工作波长在0.8um-1.8um,红外光&gt;0.78um,紫外光&lt;0.39um,对应频率为167-375THz,传输距离275M-390KM，传输速度1G-40G，适应温度范围-40度至70度<br>光纤损耗：吸收、散射、辐射<br>光纤直径：9/125/250um单模、50/125/250um多模、62.5/125/250um多模<br>光纤按纤芯划分：1芯、2芯、4芯、6芯、8芯、12芯、16芯、24芯、32芯、48芯、72芯、96芯、144芯<br>光纤按材料划分：石英光纤、多成分玻璃光纤、塑料光纤、金属光纤、金属涂层光纤、掺稀土光纤、发光光纤<br>GYTS：光纤、松套管、缆芯填充物、中心加强件、特种油膏、涂覆钢带、PE保护套、外护套(抗拉抗压，架空或直埋)<br>GYTA：光纤、松套管、缆芯填充物、中心加强件、特种油膏、涂覆铝带、PE保护套、外护套(防腐防潮，架空或穿管，海底光缆)<br>GYXTW：光纤、松套管、阻水材料、特种油膏、磷化钢丝、涂覆钢带、PE保护套、外护套(抗拉抗压防腐防潮，架空或穿管或直埋)<br>GYFTY：光纤、松套管、缆芯填充物、FRP中心加强件、特种油膏、PE保护套、外护套(抗拉抗压防腐防潮，强电区)<br>ADSS(AD)：光纤、松套管、FRP中心加强件、特种油膏、AD保护套、芳纶纱、外护套(抗拉抗压防腐防潮，强电大于12KV)<br>ADSS(PE)：光纤、松套管、FRP中心加强件、特种油膏、PE保护套、芳纶纱、外护套(抗拉抗压防腐防潮，强电小于12KV)<br>OPGW：光纤、不锈钢管、防腐油、铝包钢丝(架空地线光缆，高压电大于110KV)<br>光纤按结构方式划分：中心束管式24芯以下、层绞式24芯以上<br>光纤结构从内到外：纤芯(二氧化硅+二氧化锗)、包层(二氧化硅+氟素)、涂覆层（聚合物）、纤膏、松管套、钢丝、缆膏、铝带、内护层、芳纶纱、外护层</p><hr><p>同轴电缆：容量大，基带同轴电缆和宽带同轴电缆，阻抗分别为50欧和75欧，最大传输距离分别为185M和500M，传输速率10M-1000M<br>堆叠线、串口线等<br>常用的线缆类别：监控SYV75-1-1(0.26mm)、SYV75-2-1(0.34mm)、SYV75-3-1(0.5mm)、SYV75-5-1(1.0mm)|有线数字电视SYV75-7-1(1.65mm)、SYV75-9-1(2.15mm)<br>应用：HFC混合光纤同轴接入技术，5-40MHz给上行宽带、50-550MHz给下行CATV可传输60-100个节目和立体声广播、550-750MHz主要用于VOD、750-1GHz用于个人通信业务</p><h2 id="传输设备"><a href="#传输设备" class="headerlink" title="传输设备"></a>传输设备</h2><p>路由器、交换机、光猫、光电转换器、光模块、堆叠卡、主控板、业务板、防火墙、入侵检测服务器IDS、入侵防御服务器IPS、堡垒机、上网行为管理、网闸、AC、AP</p><blockquote><p>交换机：转发数据<br>路由器：路由选择<br>光猫：光电转换<br>防火墙：隔离外网病毒<br>IDS：实时检测并记录非法数据<br>IPS：实时防御并记录非法数据<br>保垒机：分配管理权限并记录操作过程<br>上网行为管理：对用户上网进行限制<br>网闸：类似一个单向开关，让黑客无法直接攻击内网设备<br>AC：无线控制器<br>AP：无线接入点</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网络 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 网络模型 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>网络层</title>
+      <title>《TCP-IP模型》网络层</title>
       <link href="/posts/64073.html"/>
       <url>/posts/64073.html</url>
       
@@ -174,7 +130,26 @@
     
     
     <entry>
-      <title>应用层</title>
+      <title>《TCP-IP模型》传输层</title>
+      <link href="/posts/64074.html"/>
+      <url>/posts/64074.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>TCP报文：</p><p>TCP的三次握手：</p><p>TCP的四次分手：</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《TCP-IP模型》应用层</title>
       <link href="/posts/64075.html"/>
       <url>/posts/64075.html</url>
       
